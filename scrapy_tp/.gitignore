@@ -1,0 +1,4 @@
+# 2) Requisitos
+ni requirements.txt -Force
+Add-Content requirements.txt "scrapy==2.13.3"
+Add-Content requirements.txt "matplotlib"

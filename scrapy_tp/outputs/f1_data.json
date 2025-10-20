@@ -1,0 +1,49 @@
+[
+{
+  "type": "team",
+  "url": "https://www.formula1.com/en/teams/ferrari",
+  "team_name": "Ferrari",
+  "drivers": [
+    "Charles Leclerc",
+    "Lewis Hamilton"
+  ]
+},
+{
+  "type": "driver",
+  "url": "https://www.formula1.com/en/drivers/lewis-hamilton",
+  "name": "Lewis Hamilton",
+  "team": "Ferrari",
+  "place_of_birth": "Stevenage, England",
+  "season_stats": {
+    "season_position": 6,
+    "season_points": 142,
+    "grand_prix_races": 19,
+    "grand_prix_points": 123,
+    "grand_prix_wins": 0,
+    "grand_prix_podiums": 0,
+    "grand_prix_poles": 0,
+    "dhl_fastest_laps": 1,
+    "sprint_races": 4,
+    "sprint_points": 19,
+    "sprint_wins": 1,
+    "sprint_podiums": 2,
+    "sprint_poles": 1
+  },
+  "career_stats": {
+    "grands_prix_entered": 375,
+    "career_points": 5004.5,
+    "highest_race_finish": {
+      "position": 1,
+      "count": 105
+    },
+    "podiums": 202,
+    "highest_grid_position": {
+      "position": 1,
+      "count": 104
+    },
+    "pole_positions": 104,
+    "world_championships": 7,
+    "dnfs": 33
+  }
+}
+]
